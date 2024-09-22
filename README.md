@@ -1,4 +1,4 @@
-# Weather-Journal App Project
+# Weather Journal App Project
 
 Udacity Front-End Web Developer Nano-degree - Web APIs and Asynchronous Applications (Project-3): Weather-Journal App
 
