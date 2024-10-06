@@ -142,7 +142,6 @@ textarea {
 	border: 1px solid black;
 }
 
-/* Reset style for HTML elementry on active to have no border*/
 input:focus,
 select:focus,
 textarea:focus,
