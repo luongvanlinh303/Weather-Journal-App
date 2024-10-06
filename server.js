@@ -8,12 +8,11 @@ app.use(bodyParser.json());
 app.use(cors());
 app.use(express.static("website"));
 
-const port = 8000;
+const port = 8080;
 projectData = {};
 
 function listening() {
-  console.log("server running");
-  console.log(`running on localhost:${port}`);
+  console.log(`The server running on localhost:${port}`);
 }
 
 function sendData(req, res) {
